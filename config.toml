@@ -1,4 +1,4 @@
-# baseURL = "https://superdotnet.run/"
+baseURL = "https://superdotnet.run/"
 languageCode = "en-us"
 title = "Super.NET"
 publishDir = "docs"
