@@ -1,0 +1,71 @@
+# baseURL = "https://superdotnet.run/"
+languageCode = "en-us"
+title = "Super.NET"
+publishDir = "docs"
+
+newContentEditor = "C:\\Program Files (x86)\\Notepad++\\notepad++.exe"
+
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+disqusShortname = "superdotnet"
+googleAnalytics = "UA-121100023-1"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+    author = "Super.NET"
+    title = "Super.NET: Develop as a Hero"
+    description = "Develop as a Hero"
+    authorimage = "/images/logo.png"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+    # highlightjsstyle = "github"
+    # please choose either GraphComment or Disqus
+    # GraphCommentId = "Disqus"
+    # layoutReverse = true
+    # sidebarSticky = true
+	themeColor = "theme-base-08"
+
+
+## Social Accounts
+[params.social]
+    github = "SuperDotNet"
+    #instagram = "<username>"
+    #xing = "<username>"
+    #linkedin = "<username>"
+    twitter = "RunSuperDotNet"
+    facebook = "RunSuperDotNet"
+    #stackoverflow = "<username>"
+    email = "run@superdotnet.run"
+
+## Main Menu
+[[menu.main]]
+    name = "Introduction"
+    weight = 100
+    identifier = "introduction"
+    url = "/"
+
+[[menu.main]]
+    name = "Philosophy"
+    weight = 200
+    identifier = "philosophy"
+    url = "/philosophy/"
+
+[[menu.main]]
+    name = "Vision"
+    weight = 300
+    identifier = "vision"
+    url = "/vision/"
+
+[[menu.main]]
+    name = "Blog"
+    identifier = "blog"
+    weight = 400
+    url = "https://blog.superdotnet.run"
+	
+[[menu.main]]
+    name = "Sponsors"
+    identifier = "sponsors"
+    weight = 500
+    url = "/sponsors/"
