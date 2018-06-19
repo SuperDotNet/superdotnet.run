@@ -63,9 +63,15 @@ enableRobotsTXT = true
     identifier = "blog"
     weight = 400
     url = "https://blog.superdotnet.run"
+
+[[menu.main]]
+    name = "FAQ"
+    identifier = "faq"
+    weight = 400
+    url = "/questions/"
 	
 [[menu.main]]
     name = "Sponsors"
     identifier = "sponsors"
-    weight = 500
+    weight = 600
     url = "/sponsors/"
