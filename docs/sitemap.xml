@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-06-19T08:58:59-04:00</lastmod>
+    <loc>/philosophy/inspiration/</loc>
+    <lastmod>2018-06-19T12:32:55-04:00</lastmod>
   </url>
   
   <url>
     <loc>/philosophy/</loc>
+    <lastmod>2018-06-19T08:58:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2018-06-19T08:58:59-04:00</lastmod>
   </url>
   

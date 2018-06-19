@@ -11,5 +11,14 @@
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Inspiration</title>
+      <link>/philosophy/inspiration/</link>
+      <pubDate>Tue, 19 Jun 2018 12:32:55 -0400</pubDate>
+      
+      <guid>/philosophy/inspiration/</guid>
+      <description>Hello World of Philosophy and Such!</description>
+    </item>
+    
   </channel>
 </rss>

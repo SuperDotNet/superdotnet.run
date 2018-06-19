@@ -1,6 +1,6 @@
 ---
-title: "Welcome"
+title: "Philosophy"
 date: 2018-06-19T08:58:59-04:00
 ---
 
-Hello World!
+In here you will find content that discusses the Super.NET's overarching philosophy and design approach.
