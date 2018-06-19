@@ -31,13 +31,10 @@ enableRobotsTXT = true
 ## Social Accounts
 [params.social]
     github = "SuperDotNet"
-    #instagram = "<username>"
-    #xing = "<username>"
-    #linkedin = "<username>"
     twitter = "RunSuperDotNet"
     facebook = "RunSuperDotNet"
-    #stackoverflow = "<username>"
     email = "run@superdotnet.run"
+	#stackoverflow = "<username>"
 
 ## Main Menu
 [[menu.main]]
