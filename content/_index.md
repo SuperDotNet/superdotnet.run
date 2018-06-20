@@ -14,13 +14,15 @@ Welcome to my little place on the interwebs.  In this website, I hope to detail 
 
 If you are in the MSFT ecosystem and frequent any of its blogs, then you have most likely seen me patrolling the comments of the posts there -- usually when the subject revolves around data formats, or .NET client application development -- under the nickname of Mike-EEE, a gamer tag that I acquired in the late 1990s and I have stuck with it through this day.  
 
-I have been a .NET developer since 2001, since Visual Studio was in its first beta.  Before that, I was a PHP web developer and first employee for a [startup](https://www.wildtangent.com/) and well-rehearsed in JavaScript, XML, and of course HTML -- along with all their associated pains -- when I stumbled upon the glory of .NET.  
+I have been a .NET developer since 2001, since Visual Studio was in its first beta.  Before that, I was a PHP web developer and [first employee for a startup](https://www.wildtangent.com/) that was founded by [one of the creators of DirectX](https://en.wikipedia.org/wiki/Alex_St._John).  The technology that this company initially dealt with -- [Chromeffects](https://en.wikipedia.org/wiki/Microsoft_Chrome) -- can, for all intents and purposes, be called the first version of Silverlight ([discussed below](/#what-in-the-world-is-this-project)).  From my efforts at this startup, you could say that I was well-rehearsed in JavaScript, XML, and, of course, HTML -- but more so with all their associated pains.  
+
+It was there also that I stumbled upon the glory of .NET.
 
 Since that time, I have worked for several software consultancies and then started my own small consultancy, but it is now put on hold while I work on this project and vision.
 
 ## What in the World is This Project?!
 
-In my 17 years of .NET development, there was no other technology that I enjoyed as much as [Silverlight](https://en.wikipedia.org/wiki/Microsoft_Silverlight).  If you are a storied .NET client developer, then you are most likely in agreement with me that Silverlight was one of the best inventions of MSFT's storied legacy.  We all know, however, that Silverlight met its demise in 2011, after a very dubious on-stage performance by Steven Sinofsky tried to wow an entire conference auditorium room packed with MSFT developers with a non-MSFT technology, that of JavaScript and HTML5.  The results of which are still lore today (it didn't go very well).
+In my 17 years of .NET development, there was no other technology that I enjoyed as much as [Silverlight](https://en.wikipedia.org/wiki/Microsoft_Silverlight).  If you are a storied .NET client application developer, then you are most likely in agreement with me that Silverlight was one of the best inventions of MSFT's storied legacy.  We all know, however, that Silverlight met its demise in 2011, after a very dubious on-stage performance by Steven Sinofsky tried to wow and impress an entire conference auditorium room packed full with MSFT developers with a _non-MSFT technology_, that of JavaScript and HTML5.  The results of which are still lore today (hint: it didn't go very well).
 
 ### Open Letter to .NET Platform Leadership
 
