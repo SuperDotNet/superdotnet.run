@@ -18,7 +18,7 @@ I have been a .NET developer since 2001, since Visual Studio was in its first be
 
 It was there also that I stumbled upon the glory of .NET.
 
-Since that time, I have worked for several software consultancies and then started my own small consultancy, but it is now put on hold while I work on this project and vision.
+Since that time, I have worked for several software consultancies and then started my own small consultancy, which I run today but has been put on hold while I work now on this project and vision.
 
 ## What in the World is This Project?!
 
