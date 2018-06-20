@@ -22,7 +22,7 @@ enableRobotsTXT = true
     highlightjs = true
     # highlightjsstyle = "github"
     # please choose either GraphComment or Disqus
-    # GraphCommentId = "Disqus"
+    GraphCommentId = "Disqus"
     # layoutReverse = true
     # sidebarSticky = true
 	themeColor = "theme-base-08"
