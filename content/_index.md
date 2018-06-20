@@ -42,24 +42,31 @@ As I mentioned earlier, [the Ubiquitous vote](https://visualstudio.uservoice.com
 In any case, you can further browse through these comments and -- shockingly enough -- you will find users who suggest that I do things such as attend MSFT shareholder meetings to call attention to this gigantic issue within our MSFT community.  I am not exactly good with these sorts of activities, nor do I think they are effective.  However, it did get me to start thinking about this space a little differently and has launched me to create this project and work on it full time.
 
 ## Are You Going to Answer the Question?
- 
-**Super.NET is my attempt to answer the very question that I created in October 2015, on my own terms.**
- 
-## You're Crazy
- 
-I agree.  I am actually a bit terrified I am even considering this.  However, given how the space has shaken out, and the different approaches to this very elusive and complicated problem, I have felt compelled to throw my own hat in the ring as there has been no attempts to solve this problem the way that I think it should be.
- 
-## You?  You Have a Team, Right?
- 
-I have always worked best on my own.  As [a wise developer](https://blog.superdotnet.run/2018/06/who-is-agent-smith/) once stated to me in paraphrase: *"show me something one developer can do in one month, and I will show you something two can do in two."* 
 
-Very true words, and something that has afflicted most of our ecosystem as of late, in my view.
- 
+*Super.NET is my own attempt to answer the very question that I created in October 2015, on my own terms.*
+
+## You're Crazy
+
+I agree.  I am actually a bit terrified I am even considering this.  However, given how the space has shaken out, and the different approaches to this very elusive and complicated problem, I have felt compelled to throw my own hat in the ring as there has been no attempts to solve this problem the way that I think it should be.
+
+## You?  You Have a Team, Right?
+
+I have always worked best on my own.  As [a wise developer](https://blog.superdotnet.run/2018/06/who-is-agent-smith/) once stated to me in paraphrase: 
+
+> Show me a project that one developer can do in one month, and I will show you the same project that two developers can do in two.
+> 
+> -- Agent Smith
+
+
+Very true words in our line of work.
+
 ## You're Not Crazy -- YOU'RE INSANE!!!
- 
+
 Perhaps.  Consider that I have essentially stared into a series of flashing rectangles for over 22 years of my life now.  That will do some strange things to a person, I would suggest to you.
 
-Regardless, in my view, software is like writing a book.  It's nearly impossible to write a book that is consistent in form and tone with multiple people stomping around in various chapters and trying to tie together a cohesive story.  Some teams do pull it off, however, and I rightfully salute them.  In my world, however, this is the exception and not the norm.  It's simply not my style or what I have found the most success at in my nearly 22 years of development experience.  In my view, a project should get to its first publish point and _then_ other members join to help flesh it out, keeping to the tone and style established by the primary author.
+## You're Also Interviewing Yourself
+
+Correct.  Regardless, in my view, software is a lot like writing a book.  It's nearly impossible to write a book that is consistent in form and tone with multiple people stomping around in various chapters and trying to tie together a cohesive story.  Some teams do pull it off, however, and I rightfully salute them.  In my world, however, this is the exception and not the norm.  It's simply not my style or what I have found the most success at in my nearly 22 years of development experience.  In my view, a project should get to its first publish point and _then_ other members join to help flesh it out, keeping to the tone and style established by the primary author.
 
 ## OK Crazy Guy, How Are You Going to Pull Off the Impossible?
 

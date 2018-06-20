@@ -100,3 +100,9 @@ h1, h2, h3, h4, h5 {
 	font-size: 1rem;
 	text-transform: uppercase;
 }
+
+blockquote::before {
+	content: '\f10d';
+	font-family: 'Font Awesome 5 Solid';
+	font-size: 0em;	
+}
