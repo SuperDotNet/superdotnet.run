@@ -1,7 +1,6 @@
 ---
 title: "Introduction"
 date: 2018-06-19T08:58:59-04:00
-draft: true
 ---
 
 ## Welcome
@@ -38,7 +37,7 @@ Developers Win! was a resource site that was used primarily to host content that
 
 ## So, What is This Project?
 
-As I mentioned earlier, the Ubiquitous vote has turned into a bit of a movement.  There are over 480 comments that you can read through.  You can start at the start and count how many users said that this type of project would never, ever be possible.  This type of thinking still astounds me because the purpose of an _idea forum_ is to solicit _ideas_ and subsequent _inspiration_ from said ideas.  As I hope to highlight in the remaining sections of this site, inspiration is something that has been missing since the death of Silverlight and in our aggregate community as a whole.
+As I mentioned earlier, [the Ubiquitous vote](https://visualstudio.uservoice.com/forums/121579-visual-studio-ide/suggestions/10027638-create-a-ubiquitous-net-client-application-develo) has turned into a bit of a movement.  There are over 480 comments that you can read through.  You can start at the start and count how many users said that this type of project would never, ever be possible.  This type of thinking still astounds me because the purpose of an _idea forum_ is to solicit _ideas_ and subsequent _inspiration_ from said ideas.  As I hope to highlight in the remaining sections of this site, inspiration is something that has been missing since the death of Silverlight and in our aggregate community as a whole.
 
 In any case, you can further browse through these comments and -- shockingly enough -- you will find users who suggest that I do things such as attend MSFT shareholder meetings to call attention to this gigantic issue within our MSFT community.  I am not exactly good with these sorts of activities, nor do I think they are effective.  However, it did get me to start thinking about this space a little differently and has launched me to create this project and work on it full time.
 
