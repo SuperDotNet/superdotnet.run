@@ -50,7 +50,7 @@ I agree.  I am actually a bit terrified I am even considering this.  However, gi
  
 ## You?  You Have a Team, Right?
  
-I have always worked best on my own.  As a wise developer once stated to me *"show me something one developer can do in one month, and I will show you something two can do in two."* 
+I have always worked best on my own.  As [a wise developer](https://blog.superdotnet.run/2018/06/who-is-agent-smith/) once stated to me in paraphrase: *"show me something one developer can do in one month, and I will show you something two can do in two."* 
 
 Very true words, and something that has afflicted most of our ecosystem as of late, in my view.
  
