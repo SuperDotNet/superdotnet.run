@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Super.NET"
 publishDir = "docs"
 
-newContentEditor = "C:\\Program Files (x86)\\Notepad++\\notepad++.exe"
+newContentEditor = "C:\\Program Files\\Typora\\typora.exe"
 
 theme = "hyde-hyde"
 

@@ -27,7 +27,7 @@ In my 17 years of .NET development, there was no other technology that I enjoyed
 
 After the demise of Silverlight, I wrote an [open letter to .NET Platform Leadership](https://dotnetfuture.wufoo.com/forms/open-letter-net-client-platform-future-vision/).  It, of course, went ignored as I am a rather obscure developer, and was especially so at that time.  As I was not very adept with Twitter, nor did I have any significant following, this letter pretty much died on the vine, only capturing 35 signatures.
 
-Ironically enough, this letter was a catalyst for forming around the idea of this project, as -- I hope to demonstrate below -- the vision contained within this letter is remarkably similar to the next phase of this journey.  I received a reminder about this letter when the recent DGPRmaggedon made its rounds.  I was struck with how similar my ask and desire for this "client model" was a full seven years ago.  It has inspired me to make the jump to create this project and dedicate my life to it for the very foreseeable future.
+Ironically enough, this letter was a catalyst for forming around the idea of this project, as -- I hope to demonstrate below -- the vision contained within this letter is remarkably similar to the next phase of this journey.  I received a reminder about this letter when the recent DGPRmaggedon made its rounds.  I was struck with how similar my ask and desire for this "client model" was a full seven years ago.  It has inspired me to make the jump to create this project and dedicate my life to it for the foreseeable future and beyond.
 
 ### Developers Win!
 
@@ -66,7 +66,7 @@ Perhaps.  Consider that I have essentially stared into a series of flashing rect
 
 ## You're Also Interviewing Yourself
 
-Correct.  Regardless, in my view, software is a lot like writing a book.  It's nearly impossible to write a book that is consistent in form and tone with multiple people stomping around in various chapters and trying to tie together a cohesive story.  Some teams do pull it off, however, and I rightfully salute them.  In my world, however, this is the exception and not the norm.  It's simply not my style or what I have found the most success at in my nearly 22 years of development experience.  In my view, a project should get to its first publish point and _then_ other members join to help flesh it out, keeping to the tone and style established by the primary author.
+Don't knock it until you try it; it's incredibly therapeutic I dare say.  Regardless, in my view, software is a lot like writing a book.  It's nearly impossible to write a book that is consistent in form and tone with multiple people stomping around in various chapters and trying to tie together a cohesive story.  Some teams do pull it off, however, and I rightfully salute them.  In my world, however, this is the exception and not the norm.  It's simply not my style or what I have found the most success at in my nearly 22 years of development experience.  In my view, a project should get to its first publish point and _then_ other members join to help flesh it out, keeping to the tone and style established by the primary author.
 
 ## OK Crazy Guy, How Are You Going to Pull Off the Impossible?
 
