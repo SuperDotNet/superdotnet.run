@@ -1,8 +1,11 @@
 ---
 title: "Inspiration"
 date: 2018-06-20T12:32:55-04:00
+weight: 2
 draft: true
 ---
+
+# *[[WIP](https://www.investopedia.com/terms/w/workinprogress.asp)]
 
 ## The Need for Inspiration
 
