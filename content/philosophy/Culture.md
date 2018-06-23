@@ -69,7 +69,7 @@ As such, the goal is to *efficiently* create these experts at a *maximized capac
 
 All of these big goals and ambitions mean *nothing* if you do not have inspired developers undertaking the required activities to contribute to the cause.  Additionally, true innovation and discoveries will not occur unless you have *expert* developers within the .NET ecosystem that are required to continue the cycle and further *innovate upon the innovation*.  
 
-Finally, the more experts you have within a system, the greater the chance you have of not only opening these doors, but being able to confront what is on the other side once they are.
+Finally, the more experts you have within a system, the greater the chance you have of not only opening these doors, but being able to confront what is on the other side once those doors are opened.
 
 ## Conclusion
 
