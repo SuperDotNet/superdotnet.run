@@ -59,7 +59,7 @@ Such a proposition reminds me that I myself had the idea once [that the world sp
 - Is there a "code" to music?
 - **If so, is there some Higher Entity (God/Universe/Earth) talking to our species through music or vice versa?**
 
-Yeahar.  *Now that is the stuff right there*, in my opinion.  I, of course, am *completely* biased and oh-so-impressed with my own line of thinking.  But, the point here being that we want *experts* to land on their own lines of reasoning that lead to big questions such as these.  These big questions are what I consider "higher purpose" -- ones that art is made to solve (or at least describe) and something that an *expert artist* can devote their lives to solving or at least contributing.
+Yeahar.  *Now that is the stuff right there*, in my opinion.  I, of course, am *completely* biased and oh-so-impressed with my own line of thinking.  But, the point here being that we want *experts* to land on their own lines of reasoning that lead to **big questions** such as these.  These big questions are what I consider "higher purpose" -- ones that art is made to solve (or at least describe) and something that an *expert artist* can devote their lives to solving or at least contributing.
 
 As such, the goal is to *efficiently* create these experts at a *maximized capacity*, providing the necessary support and structure to be able to attain such potential so that they can pursue such interesting and innovative (if I do say so myself) lines of thinking.
 
@@ -69,8 +69,8 @@ Finally, the more experts you have within a system, the greater the chance you h
 
 ## Conclusion
 
-In these pages on the philosophy of the Super.NET project, I covered the important elements of being inspired, of treating software like a craft, striving for elegant simplicity, and prizing a culture of excellence -- as it yields higher quality -- over that of generalists -- which yield lower quality.
+In these pages on the philosophy of the Super.NET project, I covered the important elements of [being inspired](/philosophy/inspiration/), of treating [software like a craft](/philosophy/craft/), striving for [elegant simplicity](/philosophy/simple-does-it/), and prizing a [culture of excellence](/philosophy/culture/).  These elements all aim and strive at yielding *experts* in .NET who, in turn, yield higher quality back into the .NET ecosystem.  This goal is opposed to what we primarily find ourselves in now, whereby we are producing .NET generalists who, in turn, yield lower quality.
 
-By having these components in place, we place ourselves in a position to maximize the potential for the positive feedback of innovation inspiring innovation.
+By having these components in place, we place ourselves in a position to maximize the potential for the sweet spot of having a positive feedback look of *innovation inspiring innovation*.
 
 I hope you have enjoyed this section on philosophy as much as I have enjoyed exploring it and writing it for you.  If you are still along for the ride, let's head to the next section where I finally describe the platform we're building here in [vision&raquo;](/vision/).
