@@ -38,7 +38,7 @@ Why is being an expert so important?  Well, the first quality that comes to mind
 
 From a business perspective, an expert is a better return on investment as they produce *higher quality* software, one with less bugs and higher functionality.  From a community perspective, an invested, motivated expert provides *even greater value* because they have the opportunity to further *innovate* this community, which in turn provides a positive feedback loop to *further innovate and inspire* the ecosystem in which they attained expert status.
 
-## Higher Purpose
+## Finding Higher Purpose
 
 As I mentioned, I feel that the work we do here is art, which means that on a fundamental level the work we do here has higher purpose.  I have to say that I like where I have seen the latest messaging from this year's [//build](https://www.microsoft.com/en-us/build) (2018) that positions the [world as a computer](https://www.zdnet.com/article/microsoft-ceo-nadella-the-whole-world-is-now-a-computer/).  That is a pretty inspiring and bold image. 
 
