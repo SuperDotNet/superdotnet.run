@@ -14,11 +14,11 @@ In this section, I take this further to demonstrate why the jeweler model is pre
 
 You might have heard about the [10,000 hour rule](https://en.wikipedia.org/wiki/Outliers_(book)) and why it is [no longer considered](https://www.fastcodesign.com/3027564/scientists-debunk-the-myth-that-10000-hours-of-practice-makes-you-an-expert) a valid measure of what constitutes an expert.  While it has been "debunked," I still like to refer to it here for the purposes of this discussion, which is describing an expert of a particular skill or craft.
 
-It doesn't matter how many hours are used.  It could be 20,000 or 30,000 hours.  What matters is that the person undertaking those hours can be considered an *expert* in a provided craft -- in this case .NET -- once they hit those hours that are required to become that expert.
+It doesn't matter how many hours are used.  It could be 20,000 or 30,000 hours.  We could call it *Effort-to-Expert* (E2E) to simplify the notion.  What matters is that the person undertaking those hours can be considered an *expert* in a provided craft -- in this case .NET -- once they hit those hours that are required to become that expert -- whatever number that might be.
 
-If a person is spending half of their time learning .NET and then half of their time also learning JavaScript (or PHP or GO), then they have to spend **twice** as much time becoming an expert in any one of those fields because their attention has been **divided** and therefore becomes **inefficient**.  This is the definition of a *generalist* for the sake of this discussion presented here.
+If a person is spending half of their time learning .NET and then half of their time *also* learning JavaScript (or PHP or GO), then they have to spend **twice** as much time becoming an *expert* in any one of those fields because their attention has been **divided** and therefore becomes **inefficient**.  This is the definition of a *generalist* for the sake of this discussion presented here.
 
-In our mission here, what we're aiming for is a world where those 10,000 (or whatever is required) hours are *exclusively* dedicated to .NET and its supporting ecosystem of technologies.  We want the developer squarely within .NET technologies for the *entirety* of their development (from both a personal and product perspective).  The more time they are within the *same* system, the *faster* they can achieve expert level on their own terms with this specific craft -- that being .NET.  The faster they achieve expert level, the faster that they can yield their highest value not only to the ecosystem that has trained them, but to *themselves* as we will see in a bit.
+In our mission here, what we're aiming for is a world where those E2E hours are *exclusively* dedicated to .NET and its supporting ecosystem of technologies.  We want the developer squarely within .NET technologies for the *entirety* of their development (from both a personal and product perspective).  The more time they are within the *same* system, the *faster* they can achieve *expert* level on their own terms with this specific craft -- that being .NET.  The faster they achieve expert level, the faster that they can yield their highest value not only to the ecosystem that has trained them, but to *themselves* as we will [see in a bit](#purpose).
 
 #### JavaScript's Drag
 
@@ -38,7 +38,7 @@ Why is being an expert so important?  Well, the first quality that comes to mind
 
 From a business perspective, an expert is a better return on investment as they produce *higher quality* software, one with less bugs and higher functionality.  From a community perspective, an invested, motivated expert provides *even greater value* because they have the opportunity to further *innovate* this community, which in turn provides a positive feedback loop to *further innovate and inspire* the ecosystem in which they attained expert status.
 
-## Finding Higher Purpose
+## Finding Higher Purpose{#purpose}
 
 As I mentioned, I feel that the work we do here is art, which means that on a fundamental level the work we do here has higher purpose.  I have to say that I like where I have seen the latest messaging from this year's [//build](https://www.microsoft.com/en-us/build) (2018) that positions the [world as a computer](https://www.zdnet.com/article/microsoft-ceo-nadella-the-whole-world-is-now-a-computer/).  That is a pretty inspiring and bold image. 
 
