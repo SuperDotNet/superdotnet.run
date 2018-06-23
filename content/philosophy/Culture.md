@@ -22,7 +22,7 @@ In our mission here, what we're aiming for is a world where those 10,000 (or wha
 
 #### JavaScript's Drag
 
-Of course, we do not live in this reality.  Currently we must split our client development time in JavaScript and HTML5 -- but specifically JavaScript as it is the language that is ultimately interfacing with the HTML5 DOM.  JavaScript is *completely incompatible* with .NET, so *any* work that is accomplished there cannot be leveraged in the .NET space.  This means each and every developer is spending **twice** the amount of time:
+Of course, we do not live in this reality.  Currently, we must split our client development time in JavaScript and HTML5 -- but specifically JavaScript as it is the language that is ultimately interfacing with the HTML5 DOM.  JavaScript is *completely incompatible* with .NET, so *any* work that is accomplished there cannot be leveraged in the .NET space.  This means each and every developer is spending **twice** the amount of time:
 
 - Writing code
 - Testing code
@@ -30,13 +30,15 @@ Of course, we do not live in this reality.  Currently we must split our client d
 - Fixing bugs 
 - Learning and managing idiosyncrasies
 
-And more.  Essentially, all the risks that are part of learning a language have now been *doubled* and are in *two* separate systems, instead of *one*, thereby **doubling the risk and related cost** of a solution that is required to be built using this strategy.
+And more.  Essentially, all the risks that are part of learning a language have now been *doubled* and are in *two* separate systems, instead of *one*, thereby **doubling the risk and associated cost** of a solution that is required to be built using this strategy.
 
 ## Fostering Innovation and Inspiration
 
 Why is being an expert so important?  Well, the first quality that comes to mind is exactly that: *quality*.  An expert developer understands the system on a much more fundamental level, meaning they understand its quirks and deficiencies.  They also understand its pitfalls but more importantly they can start using such knowledge to contribute back and *innovate this system* and provide even more value back the very entity that granted them expert status in the first place.
 
 From a business perspective, an expert is a better return on investment as they produce *higher quality* software, one with less bugs and higher functionality.  From a community perspective, an invested, motivated expert provides *even greater value* because they have the opportunity to further *innovate* this community, which in turn provides a positive feedback loop to *further innovate and inspire* the ecosystem in which they attained expert status.
+
+## Higher Purpose
 
 As I mentioned, I feel that the work we do here is art, which means that on a fundamental level the work we do here has higher purpose.  I have to say that I like where I have seen the latest messaging from this year's [//build](https://www.microsoft.com/en-us/build) (2018) that positions the [world as a computer](https://www.zdnet.com/article/microsoft-ceo-nadella-the-whole-world-is-now-a-computer/).  That is a pretty inspiring and bold image. 
 
