@@ -46,7 +46,7 @@ As I mentioned, I feel that the work we do here is art, which means that on a fu
 
 That is a pretty inspiring and bold image, in my view. 
 
-Such a proposition reminds me that I myself had the idea once [that the world speaks to us in music](http://www.ossem.com/documents/notes/) that could be captured by monitoring music being played throughout the world at concerts and events, leading to the following questions:
+Such a proposition reminded me that I myself once had the idea [that the world speaks to us in music](http://www.ossem.com/documents/notes/), and that this could be captured by monitoring music being played throughout the world at concerts and events, leading to the following questions:
 
 - What is this notion of [resonance](https://en.wikipedia.org/wiki/Resonance)?
 - How is music created?
