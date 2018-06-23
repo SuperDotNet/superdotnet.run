@@ -71,6 +71,6 @@ Finally, the more experts you have within a system, the greater the chance you h
 
 In these pages on the philosophy of the Super.NET project, I covered the important elements of [being inspired](/philosophy/inspiration/), of treating [software like a craft](/philosophy/craft/), striving for [elegant simplicity](/philosophy/simple-does-it/), and prizing a [culture of excellence](/philosophy/culture/).  These elements all aim and strive at yielding *experts* in .NET who, in turn, yield higher quality back into the .NET ecosystem.  This goal is opposed to what we primarily find ourselves in now, whereby we are producing .NET generalists who, in turn, yield lower quality.
 
-By having these components in place, we place ourselves in a position to maximize the potential for the sweet spot of having a positive feedback look of *innovation inspiring innovation*.
+By having these elements in place, we place ourselves in a position to maximize the potential for the sweet spot of having a positive feedback loop of *innovation inspiring innovation*.
 
 I hope you have enjoyed this section on philosophy as much as I have enjoyed exploring it and writing it for you.  If you are still along for the ride, let's head to the next section where I finally describe the platform we're building here in [vision&raquo;](/vision/).
