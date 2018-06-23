@@ -31,32 +31,30 @@ But that's the key here, *inspiration fostered more inspiration*.  And this is t
 
 Of course, Silverlight did not last forever, but was, in fact, killed shortly after its peak.  Truly confounding how that happened, of course.  I still cannot grasp why you would kill a technology that saved businesses so much money, and replace it with a solution that ended up costing businesses more money.  Even more confounding was that businesses did not question such a dubious decision and *simply went along with it without challenging the fundamental business problems with the strategy*.
 
-However, Silverlight's death presented a great opportunity to learn and produce [https://youtu.be/YgxACD-rL5c](https://youtu.be/YgxACD-rL5c), if not on a logical or software level, then on a personal level.
+However, Silverlight's death presented a great opportunity to learn and produce [character](https://youtu.be/YgxACD-rL5c), if not on a logical or software level, then on a personal level, or perhaps even on a spiritual level.
 
 
 > Before Silverlight was killed I *thought* I was a hotshot times ten.  Now I **know** I am just a hotshot times two.
 >
-> -- Me
 
 I know that in my case when Silverlight was at peak momentum, I was a know-it-all bragface that had all the answers.  I wasn't a good teammate.  Well, I was in some respects, but if there was a disagreement, *I had to be right at all costs*, to the point where it would impact my relationship with others.
 
 To me, the death of Silverlight was a spiritual lesson.  It allowed me to see that I, in fact, did not know everything.  I was able to see that because I think something is a certain way, doesn't mean that it actually is.
 
-If I was wrong about Silverlight, then what else was I wrong about?
+*If I was wrong about Silverlight, then what else was I wrong about?*
 
-This sort of thinking leads to self discovery.  And the best way I could paraphrase it is that before Silverlight was killed, I *thought* I was a "hot shot" times ten.  Now I **know** I am just a hot shot times two.
+This sort of thinking leads to self examination and discovery.  For me at least, the best way I could paraphrase this process it is that before Silverlight was killed, I *thought* I was a "hot shot" times ten.  Now I **know** I am just a hot shot times two.
 
 > To me, the death of Silverlight was a spiritual lesson.
 >
-> -- Me
 
 That is, still talented and capable, but maybe not as much as I thought.  Ironically, though, now that I actually know more about myself and my limits as well as a better grasp on reality, I might indeed be closer to that "times ten" than previously believed.  However, I have also learned that humility goes a long way, so two it is.
 
 ### The Value of Inspiration
 
-Why is inspiration so important?  Well, to me, it brings out the "art" of what we do.  We can start to see beyond the business of working to make a buck, and start thinking more big picture.  We can start thinking of how we use applications differently and have fewer restrictions imposed upon us.  In a business context, I see software as a science.  When you combine this with inspiration you get the art.  Then, art meets science, which in my view not only sustains the business but also *improves upon* it.
+Why is inspiration so important?  Well, to me, it brings out the "art" of what we do.  We can start to see beyond the business of working to make a buck, and start thinking more *big picture* and having a *higher purpose*.  We can start thinking of how we use applications differently and have fewer restrictions imposed upon us.  In a business context, I see software applied as a science with very little art or meaning to it.  However, when you combine this "science" with inspiration, I believe the art emerges from such.  Then, art meets science, which in my view not only sustains the business but also *improves upon* it.
 
-Let's also not overlook the aspect of morale, either.  Having inspired developers means having them *invested* in their work, mean may mean more hours for a business which yields a higher [ROI](https://www.investopedia.com/terms/r/returnoninvestment.asp) for the business that pays their salary.  Inspired and invested developers know (or have a feeling or understanding) that their efforts are part of *a bigger vision* that they will ultimately be compensated for their time *and more* if their efforts are successful.
+Let's also not overlook the aspect of morale, either.  Having inspired developers means having them *invested* in their work, which may mean more hours for a business which yields a higher [ROI](https://www.investopedia.com/terms/r/returnoninvestment.asp) for the business that pays their salary.  Inspired and invested developers know (or have a feeling or understanding) that their efforts are part of *a bigger vision* that they will ultimately be compensated for their time *and more* if their efforts are successful.
 
 ### Summary
 

@@ -7,61 +7,114 @@ weight: 3
 
 # *[[WIP](https://www.investopedia.com/terms/w/workinprogress.asp)]
 
-Fundamentally, the work we do is an art.  The business problem with art, of course, is that it is very difficult to produce money from it so that you can sustain yourself and put food on the table.  That is, unless you are an expert at the craft.  Further, one does not become an expert unless they have *invested a great deal of time* into their craft.  This, paired with skill, produces mastery.  In my discussion here, I will be angling for this ideal, whereby we are producing *masters* of our craft by promoting a culture of *experts* rather than generalists, which is the overwhelmingly expensive (and taxing) environment we find ourselves in our current, accepted climate.
+In the philosophy that is described here, it proposes that software development is a craft, much like wood working, pottery, beer, or -- as this section later calls out -- [jewelry](#compare).
 
-True art cannot be rushed.  You cannot rush that which has its own mind.  It's like screaming at an unborn baby while still in its warm womb to hurry up and eject itself.  The types of projects that I have contracted and worked at over the years very much feel like this type of thinking.
+## You Can't Spell Craft without Art
 
-Not only is screaming ineffective, it causes undue stress to the person carrying the baby (the artist in this case), the person doing the screaming, and of course the baby itself -- if not by its own intuition of negative energy, but by proxy its host which has to endure the energy by being exposed to it.
+I'm a bit of a stickler and sucker for words.  I enjoy anagrams and things of that nature.  If you take the letters a-r-t out of craft, you end up with cf, [which doesn't make any sense](https://youtu.be/Qtqp-RUw87M).  Not to me, at least.
 
-> Enforcing arbitrary deadlines for art is like screaming at an unborn baby that is still in its warm womb to hurry up and eject itself.
->
-> -- Me
+> *Craft* means building something with both *heart* and *art*.
 
-### The Business Problem
+Nonetheless, having this notion of being a "craftsperson" got me to go online and found this [nice discussion](https://www.reddit.com/r/composer/comments/3zwl4l/discussion_is_music_a_craft_or_an_art/).  The takeaway -- as with *anything* that involves many human beings and their resulting points of view -- is that there are several ways of looking at craft.  For the purposes of this discussion, craft means building something with both *heart* and *art*.
 
-I, of course, express an ideal.  The problem is that we find ourselves in an environment where we are constantly screaming at our unborn babies to hurry up their delivery schedule.  I would posit that our resulting quality speaks for itself for a large part -- if not all -- of these cases.
+Getting to know your art is very important in life.  In my view, you should have several outlets, with software being one of them.  I myself recently re-visited all of my art while [discovering Hugo](https://gohugo.io/) and organized it all in a site that [you can view here](http://ossem.com/).  It has to be one of the most therapeutic activities I have ever done, and I certainly encourage anyone who has old art to do the same.  
 
-Even worse, this behavior is rewarded financially so it is enabled as if it were an addiction -- and by all intents and purposes, *it is.*
+Several observations from this activity:
 
-So, how do we combat this problem?  Unfortunately I have no panacea here.  Not yet, at least.  I envision a world where all artists are able to work full time on their visions and make enough to at least feed themselves -- much like I will be able to do with mine here for a few years.  Even still, in my case a few years there is still a limitation that I would like to see removed.
+1. It got me to identify [my heroes and influences](http://ossem.com/about/#heroes) in life.  This was satisfying and personally inspirational to me.
+2. It unveiled my history to me.  This is key to me personally as it yielded a lot of inspiration (common theme here), but also reduced a lot of clutter in the background of my mind.  This is why I suggest you do the same so that you can find yours.
+3. It organized my history.  I took creative liberties and organized my art history into [different boxes](http://www.ossem.com/about/#boxes).
+4. It showed me my different types of art that interest me.  I have these now captured and organized by [poems](http://www.ossem.com/poems/), [stories](http://www.ossem.com/stories/), and [sketches](http://www.ossem.com/sketches/), which, incidentally, Hugo organizes perfectly by default.
+5. It allowed me to discover explore another foreign yet elegant technology.  While at first glance it would seem to contradict myself in using a different technology than .NET, that is not the case at all.  In fact, I will be using Hugo as a great example of how we should be incorporating other inspiring features from other technologies into .NET.
 
-> The deadline is where the science of business meets the art of innovation.
->
-> -- Me
+## I'm in This for the Craft
 
-#### Cryptocurrency?
+After spending over two decades in software development, I can say that I am more about establishing legacy now as opposed to making a quick buck, and you can thank a recent close call with death for cementing this feeling within me.  
 
-The interesting aspect of cryptocurrency at present is its *raw potential* towards solving some of these types of problems.  I have been studying this space for about a year now.  I would like to think that it's a part of what I am building here.  The problem here is the details and the time required to acquire the required knowledge.  The ideal is not to exactly disrupt systems as they currently stand -- [thereby fostering ill will](https://blog.superdotnet.run/2018/06/hello-world-welcome-to-super.net-blog-dawg/#even-when-you-re-right-you-can-be-wrong), but to work within established boundaries and *innovate them accordingly*.
+In the last week of May 2018, I was on my way back from my daily gym routine when I [encountered a terrible accident that claimed a life](http://www.ossem.com/stories/2018/grind/) which must have occurred no less than two minutes before I arrived on scene.
 
-There is still a lot of unknown in this space, of course.  It's a bit "quantum" (that is, not fully understood) in its own right.  But, there is potential here and enough to keep in mind as we build forward with the vision I am describing here.
+What was especially scary was that I had five minutes earlier to this event pushed myself on the treadmill to complete my sixty minutes rather than quit a few minutes early.  If I had done so, I would have no doubt been placed further in the window of this incident.
 
-### The Jeweler vs. One Person Band
+This was actually the motivating factor in creating my art project and exploring it in full.
 
-When I lived in the Seattle area, I would walk [by a jeweler](http://bendersjewelers.com/) on my way to the gym for my daily workout.  I was always impressed with how intent he was in his activities, and I was always quick to draw a comparison to how his intensity is a lot like a software developer when they are "in the zone."
+It got me to think about what I want to be known for if I had died unexpectedly.  This is a notion that I have never been confronted with before, but I have had heard others face it in the past.  To me, I realized that if I had died today, people would know me, if anything, by [my code](http://github.com/Mike-EEE), but there is nothing particularly interesting there.  Further, they wouldn't know me by my writings, or if I did write at all.
+
+But then it got me to think further of how I could use technology along with art, and that has led me to galvanizing this project -- which is not meant to specifically serve as art per se, but will allow applications that deal with such to be made accordingly, which is what I am building towards now.
+
+So I guess you could say, since that experience, I am more of a [carpe diem](https://en.wikipedia.org/wiki/Carpe_diem) person and I am here to establish some more meaning in the world -- not just in what I produce, but [how I treat others as well](https://blog.superdotnet.run/2018/06/hello-world-welcome-to-super.net-blog-dawg/#brand).
+
+## More  Jeweler, Less One Person Band{#compare}
+
+When I lived in the Seattle area, I would walk [by a jeweler](http://bendersjewelers.com/) on my way to the gym for my daily workout.  I was always impressed with how intent he was in his activities, and it was easy to draw a comparison to how his intensity is a lot like a software developer when they are "in the zone."
 
 ![The intensity of a jeweler is very much like a software designer](/images/Jeweler.jpg "The intensity of a jeweler is very much like a software designer")
 
-In my worldview, the jeweler is very much the "symbol" I envision when I describe software as being a craft.  You have a student who is intently studying and working with their tools upon their gems and stones in pursuit of perfection, which in turn provides elegance and further meaning into the world.
+In my worldview, the jeweler is very much the "symbol" I envision when I describe software as being a craft: you have a student who is intently studying and working with their tools upon their gems and stones in pursuit of perfection, which are then, in turn, sold to provide elegance and further meaning into the world.
 
-Conversely, taken from a typical business perspective, it always seems their goal is to turn every developer into a one person band.  Their proud mantra is the all-to-common "a jack of all trades, master of none."  Incidentally, this serves as a fun drinking game for every time you hear it in an interview or read it in a job description.
+Conversely, taken from a typical business perspective, it always seems the goal here is to turn every developer into a one person band.  Their proud, all-to-common mantra of "a jack of all trades, master of none," seems to be a game of sorts to quote during job interviews and descriptions.
 
-The problem here, of course, is that you soon have an entire team or even group of one person bands and getting them all to work together to produce a cogent, coherent product is exactly like what you would expect for the most part.
+The problem here, of course, is that you soon have an entire team or even group of one person bands and getting them all to work together to produce a cogent, coherent product is exactly like what you would expect when you envision such a sight and subsequent sound.
 
 [![When You Know HTML5, and CSS and PHP and JavaScript and C# and Java and ...](http://img.youtube.com/vi/zu711IAYjHg/0.jpg "When You Know HTML5, and CSS and PHP and JavaScript and C# and Java and ...")](http://www.youtube.com/watch?v=zu711IAYjHg)(When You Know HTML5, and CSS and PHP and JavaScript and C# and Java and ...)
 
-Pausing a bit here, this is not [placing judgement on what is better](/philosophy/introduction/#quick-word-on-value-judgments), but simply expressing an ideal and to delineate the difference in approach.  This difference is also further explored in [culture](/philosophy/culture/) where I examine and explain in business terms why I prefer the jeweler (expert) over the one person band (generalist).
+You might note my "clown" example above actually doesn't sound too bad, and you are not wrong.  Pausing a bit further here, this is not [placing judgement on which approach is better](/philosophy/introduction/#quick-word-on-value-judgments), but simply expressing an *ideal personal style* and to delineate the difference in the two approaches.  I think we have plenty of one person bands in our world.  My desire is to see more *jewelers*, and that is the type of culture that I will be aiming for in establishing this project.
 
-## It's Done When It's Done
+## The Business Problem
 
-I have always respected and appreciated those projects that took guts to take the required and necessary time to work on their projects with the attention it deserved.  This section serves as a little shout to my heroes here in their efforts to go against the grain and work on their product until it was completed to their satisfaction.
+The business problem with art, of course, is that it is typically very difficult to produce money from it so that you can sustain yourself and put food on the table.  This is generally true unless you are an expert of the craft in which you work.  Further, one does not become an expert unless they have *invested a great deal of time* into their craft.
 
-Each one of these have their own story on how they have combatted timelines.  Each one of these stories does not have an overwhelmingly happy or successful theme to them, either.  My point in exploring these is not to provide a solution, but to highlight that there isn't one.  This is a very difficult problem to solve but I have a hunch if a good amount of ingenuity, creativity, and innovation is applied, then a sort of compromise can be had.
+> Enforcing arbitrary deadlines for art is like screaming at an unborn baby still in its warm womb to hurry up and eject itself.
+>
+
+The bigger problem is that *true art cannot be rushed*.  You cannot rush that which has its own mind.  It's like screaming at an unborn baby while still in its warm womb to hurry up and eject itself.
+
+Not only is screaming ineffective, it causes undue stress to the person carrying the baby (the artist in this case), the person doing the screaming, and of course the baby itself -- if not by its own intuition of negative energy, but by proxy its host which has to endure the energy by being exposed to it.
+
+In an ideal world, artists are free to work unencumbered on the art on which they are tasked to produce. I, of course, express an ideal that does not reflect the reality that we mostly find ourselves as a community.  Whereas art reflects innovation and the desire of higher purpose, we also have the science of business that reflects the boundaries and limits of reality.  
+
+These two forces are constantly at war with each other.  The problem is that in our typical software development environment we find ourselves constantly screaming at our unborn babies to hurry up their delivery schedule.  I would posit that our resulting quality speaks for itself for a large part -- if not all -- of these cases.
+
+Even worse, this dysfunctional behavior is perpetually rewarded financially so it is enabled as if it were an addiction -- and by all intents and purposes, *it is.*
+
+So, how do we combat this unseemly problem?  Unfortunately, I have no panacea here.  Not yet, at least.  It is worth exploring some ideas I have had around this problem, however.
+
+### Cryptocurrency?
+
+The interesting aspect of cryptocurrency at present is its *raw potential* towards solving some of these types of problems.  I have been studying this space for about a year now.  I would like to think that its promise and potential is a part of what I am building here.  The problem here is the details and the time required to acquire the required knowledge.  Also, the ideal is not to exactly disrupt systems as they currently stand -- [thereby fostering ill will](https://blog.superdotnet.run/2018/06/hello-world-welcome-to-super.net-blog-dawg/#even-when-you-re-right-you-can-be-wrong), but to work within established boundaries and *innovate them accordingly*.
+
+There is still a lot of unknown in this space, of course.  It's a bit "quantum" (that is, not fully understood) in its own right.  But, there is potential here and enough to keep in mind as we continue the conversation.
+
+### Universal Income?
+
+There is some chatter out there about [universal income](https://en.wikipedia.org/wiki/Basic_income), which -- as with anything dealing with numerous human beings -- turns out to be a controversial subject.  However, can this problem be solved with cryptocurrency?  More specifically, can we explore the notion of an artist's universal income with cryptocurrency? Or even better yet, *a hungry* artist's universal income by way of cryptocurrency?  
+
+A hungry artist, to me, is one that is *always by their work*, which I describe more [below](#done).  If an artist is able to prove that they are by their work, then they get paid a minimal amount to feed themselves by way of this theoretical cryptocurrency model.  That way, we aren't blindly spending money "just because" and we have a world where artists are producing intrinsic value for others.
+
+### Deadlines
+
+Fundamentally, I view the work we do as an art.  Certainly, there's a "science" aspect to it, as it is typically called "computer science," after all.  However, for the sake of my discussion here, when I think of the "science" equivalent to our art, I refer to the business side of where that art is produced, as this is where the *tension* lies within our field of work.
+
+> The deadline is where the science of business meets the art of innovation.
+
+Science is concerned with defining and describing limits of *reality* as well as the parameters of how it operates as such.  In the case that I am presenting here, business serves as the science to our craft's art, as that is where the limits and calculation of resources lie, and therefore imposed upon the artist.  
+
+Paul Graham explores an aspect of these two forces in his excellent essay [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html).  Scheduling is an aspect of this tension between the art of the craft and the science of business that is being described here.
+
+## It's Done When It's Done{#done}
+
+In an ideal world, an artist is able to complete their work on their own schedule without timelines.  In my view, the artist is "working" if they are near their work.  The pitfall with computers, of course, is that an artist's "work" also happens to be attached to one of the greatest inventions in humanity's history: the internet.  So, it's easy to get "distracted" and pulled into other areas that *seemingly* have nothing to do with what the artist is supposed to be working on, but I would suggest that what they are "distracted" with helps clear their mind, or even better, [inspire them](https://en.wikipedia.org/wiki/Muses) away from a roadblock or lull.
+
+### Examples
+
+I have always respected and appreciated those projects that took the guts to somehow find the time necessary to produce their art for the market (another word that, incidentally, has "art" in it).  This section serves as a little shout to my heroes here in their efforts to go against the grain and work on their product until it was completed to their satisfaction.
+
+Each one of these have their own story on how they have combatted timelines.  Each one of these stories does not have an overwhelmingly happy or successful theme to them, either.  My point in exploring these examples is not to provide a solution, but to highlight that there isn't one clean answer here.  This is a very difficult problem to solve but I have a hunch if a good amount of ingenuity, creativity, and innovation is applied, then a sort of compromise can be had.
 
 I go through these from best to worst in success.
 
 #### Prophet Comic 
 
-[Prophet](https://en.wikipedia.org/wiki/Prophet_(comics)) has to be my favorite comic of all time.  I am speaking of course to the old skool one, the one released in the 90's by [Rob Liefeld](https://en.wikipedia.org/wiki/Rob_Liefeld) and drawn by the legendary Stephen Platt (easily my most favorite artist of all time).
+[Prophet](https://en.wikipedia.org/wiki/Prophet_(comics)) has to be my favorite comic of all time.  I am speaking of course to the old skool one, the one released in the 90's by [Rob Liefeld](https://en.wikipedia.org/wiki/Rob_Liefeld) and drawn by the [legendary Stephen Platt](http://www.ossem.com/sketches/names/) (easily my most favorite artist of all time).
 
 The problem, though, is that there turned out to be a huge problem with -- can you guess? -- timelines imposed on Platt which resulted in [a rift between him and Liefeld](https://www.bleedingcool.com/2014/01/20/fanboy-rampage-rob-liefeld-vs-stephen-platt/).  The story here can easily be related to the problem space that I am describing.  Reading this story in detail reveals some very interesting aspects of Platt's thinking that I can personally appreciate.  Likewise, as a business owner, I also appreciate Liefeld's position as well: you get paid, you do the job, bruh.
 
@@ -73,15 +126,15 @@ Any surprises there?
 
 [Hero U](http://hero-u.com/hero-u-donations/kickstarter/) is a game made by the same creatives that penned the [Quest for Glory](https://en.wikipedia.org/wiki/Quest_for_Glory) series (probably my favorite PC game outside of [DooM\]\[](https://en.wikipedia.org/wiki/Doom_II)).
 
-This is a custom-rolled initiative that has been going since 2012, and you can read all the gory (glory?) [details here](https://www.kickstarter.com/projects/transolargames/hero-u-rogue-to-redemption/updates).  It really underscores the complexity of software.  However, they are in beta now after plugging at it for nearly six years and are ever so closer to a release.  You have to tip your hat to them for sticking with it and continuing forward especially after going through so many deadlines and facing so many challenges.
+This is a custom-rolled initiative that has been going since 2012, and you can read all the gory (glory?) [details here](https://www.kickstarter.com/projects/transolargames/hero-u-rogue-to-redemption/updates).  It really underscores the complexity of software and product development.  However, they are in beta now after plugging at it for nearly six years and are ever so closer to a release.  You have to tip your hat to them for sticking with it and continuing forward especially after going through so many deadlines and facing so many challenges.
 
 #### Duke Nukem 4Ever
 
 The last example I have is one that started out a champion for "it's done when it's done," but after a while it sort of turned into a joke.  [Duke Nukem 4Ever](https://en.wikipedia.org/wiki/Duke_Nukem_Forever#Development) is a title that ended up living up to its name in a negative way, being that it took forever to finally launch. 
 
-I bring it up here because I think it's important to analyze what went wrong and where.  Whereas Hero U has continued to chug along at a respectable pace, with its owners fully engaged and responsive with its community, Duke Nukem 4Ever started out hot and then seemed to grow despondent and murky.
+I bring it up here because I think it's important to examine what went wrong here.  Whereas Hero U has continued to chug along at a respectable pace, with its owners fully engaged and responsive with its community, Duke Nukem 4Ever started out hot and then seemed to grow despondent and murky.
 
-To me, what stands out is the basic issue here is *hunger*.  Duke Nukem 3D was an overwhelming success.  With success comes power, and how you handle that power is truly what defines how successful you truly are.  It's easy to get distracted with such resources and ability, and I believe that's what ultimately happened here.
+To me, what stands out is the basic issue of *hunger*.  [Duke Nukem 3D](https://en.wikipedia.org/wiki/Duke_Nukem_3D) was an overwhelming success.  With success comes power, and [how you handle that power](https://blog.superdotnet.run/2018/06/hello-world-welcome-to-super.net-blog-dawg/#it-s-not-how-you-win-but-how-you-lose) is truly what defines how successful you truly are.  It's easy to get distracted with such resources and ability, and I believe that's what ultimately happened here.
 
 You still have to give respect to the entire crew (or crews) behind this project a lot of credit for finally kicking this thing out the door, despite its struggles and resulting quality.
 
@@ -91,6 +144,6 @@ If you yourself know of any examples of daring attempts to face the challenge of
 
 ## Summary
 
-In this article, I explored the craft of software, namely by exploring the tedious and challenging relationship between art and deadlines -- where innovation meets business.  As there are no easy answers to this nearly impossible problem within a capitalist framework, the goal was to present my idea of a craftsperson and the resulting trade of software as a craft in its own right.  I then explored some known examples of projects combating the challenge of deadlines, which represent the limits of resources applied to a particular objective.
+In this article, I explored the art of software development and the challenges it faces in a business environment.  I also explored my personal ideal of having software developers viewed more as jewelers as opposed to one person bands.  I then explored some known examples of projects combating the challenge of deadlines, which represent the limits of resources applied to a particular objective.
 
 Next, I explore the notion of [simplicity in design&raquo;](/philosophy/simple-does-it/).

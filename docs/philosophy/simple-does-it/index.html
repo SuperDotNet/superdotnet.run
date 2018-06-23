@@ -125,7 +125,7 @@
       
       
       <br/>
-      <i class="fas fa-clock"></i> 1 min read 
+      <i class="fas fa-clock"></i> 6 min read 
       </span>  
   </div>    
   
@@ -133,13 +133,59 @@
 
 <h1 id="wip-https-www-investopedia-com-terms-w-workinprogress-asp">*[<a href="https://www.investopedia.com/terms/w/workinprogress.asp">WIP</a>]</h1>
 
-<h2 id="hugo-as-a-conceptual-model">Hugo as a Conceptual Model</h2>
+<p>As I mentioned in describing <a href="/philosophy/craft/">software as a craft</a>, I have been going through a very inspirational time with putting this project together.  In this section, I hope to explore a little bit about software design in general and some of the great appreciation that I have acquired by studying <a href="https://gohugo.io/">Hugo</a>, the very software used to produce and publish the content you are now reading.</p>
+
+<h2 id="hugo-as-an-example-of-elegance">Hugo as an Example of Elegance</h2>
+
+<p>What is so inspiring about Hugo?  Well, I would say first and foremost, it&rsquo;s simplicity.  It also doesn&rsquo;t make assumptions, which you will see throughout its documentation.</p>
+
+<p>The other aspect I appreciate is that it uses the file system as the data store.  That is, you are able to explore your website in a very accessible manner without having to configure and dive into the guts of a database.  In my view there has yet to be a good database tooling experience.  It has always been a lot of friction to access and manage your data there.  It also has been <em>completely different</em> from every other resource that you work with in a typical development scenario.  If you want to update data, you have to write a query.  Whereas with your code and every other artifact you work with, you simply save a file.</p>
+
+<p>This seems more consistent and congruent to me, hence the appeal.</p>
+
+<p>Now, it&rsquo;s not all roses and candy here.  There are other challenges that the database is good at, such as doing mass edits or having a single row encapsulating the value of a frequently-used text string used throughout your application.  You are going to have to resort to error-prone find/replace methods here to adjust to those scenarios.</p>
+
+<p>However, I think that&rsquo;s a healthy trade off.  In my view, anything that can limit the reach of a database, the better.  Again, I simply have not been a fan of it.  Consider that the website that you are now reading is the third website that I have created with Hugo.  Most of my time has been spent creating content.  I must have spent what feels like 3 full days learning Hugo and the rest in creating the content.</p>
+
+<p>That to me is an enormous success in design.  It&rsquo;s worthy of praise and mention, and that is what this article is about.</p>
+
+<p>It would seem that software these days has been taking a turn towards simplicity in general.  A &ldquo;back to basics&rdquo; approach, if you will.  This is something that I think is worth exploring, not only in form as presented in the products such as Hugo that we see today, but also from a more historical perspective.</p>
 
 <h2 id="over-architecture-as-a-defense-mechanism">Over-architecture as a Defense Mechanism</h2>
 
+<p>While studying Hugo, it got me to think about what we have been putting up with as .NET developers, and why.  From my perspective I thought of a few aspects and thought I would share them.  This will serve as a bit of a retrospective in my own journey of having developed now for over twenty years.</p>
+
+<blockquote>
+<p>Always be asking yourself: who are you trying to impress, and why?</p>
+</blockquote>
+
+<p>From my own experience, I can say that I have been very attracted to complex design.  Huge frameworks such as <a href="https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff648951(v=pandp.10)">Enterprise Library</a> for instance, and of course, WPF and Silverlight.  I would spend hours and hours learning these frameworks.  I am going to use Enterprise Library as the outlining example here as pretty much every developer has had their hands and minds in WPF and Silverlight since that was assumed and necessary in our work.</p>
+
+<p>Enterprise Library is a good example as I found that a lot of projects didn&rsquo;t use it, even though I thought it should.  Most thought it was simply too complicated, and, as it turns out, they were right.  This didn&rsquo;t stop me from exploring, it, however.  And in turn always recommending it to clients for solutions that I would be building for them.</p>
+
+<p>The problem here is that once you develop a overly-complex system, you have to <em>support</em> that system.  You are also asking other developers to take the same path as you have and invest all their time into that system.  This has a cascading effect throughout an ecosystem.  Especially if it comes from MSFT.</p>
+
+<p>I will be honest and say that a lot of MSFT&rsquo;s earlier .NET code seems very complicated these days.  I noticed this with the <code>XmlSerilizer</code> while doing work on the <a href="https://github.com/wojtpl2/ExtendedXmlSerializer">ExtendedXmlSerializer</a>, especially.  Looking through that code and seeing thousands (and thousands!) of lines in a single file is a pretty impressive experience and not in a good way.</p>
+
+<p>The point here being that code can be a way of trying to impress others.  More code is not  necessarily better.  I have been guilty of this for sure, having mimicked MSFT&rsquo;s style of creating large frameworks and probably with a lot of code that was not necessary (always a learning lesson and I am not saying I have exactly learned it with finality just yet).</p>
+
+<p>This is not to say that software shouldn&rsquo;t be complex.  I can guarantee you the code I will be writing will certainly be.  But the point here is to be <em>mindful</em> of this trap.  Always be asking: who am I trying to impress, and why?</p>
+
+<p>Personal self discovery and reflection is as an important tool in every developer&rsquo;s tool kit as any software library.  Be sure to constantly assess your own motivations and what drives you to make the decisions you do.  I know it&rsquo;s something that I constantly monitor in my own world and I do not have very good answers for a lot of them.  But, I would say <em>mindfulness</em> of this is a good first step.</p>
+
+<h2 id="incorporating-greatness">Incorporating Greatness</h2>
+
+<p>The great part about having other, foreign technology projects is that you can utilize them as <a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Girard#Mimetic_desire">inspiration to incorporate into your own works</a>.  You can be assured that I will be keeping Hugo in mind as I move forward here with Super.NET.</p>
+
 <h2 id="other-lessons-learned">Other Lessons Learned</h2>
 
-<p>[<a href="https://blog.superdotnet.run/2018/06/hello-world-welcome-to-super.net-blog-dawg/#lessons-learned">Link</a>]</p>
+<p>I think this is a good spot to mention other lessons learned throughout my development history in a blog post that you can <a href="https://blog.superdotnet.run/2018/06/hello-world-welcome-to-super.net-blog-dawg/#lessons-learned">read here</a>.</p>
+
+<h2 id="summary">Summary</h2>
+
+<p>Moving right along here.  This section examined the appeal of Hugo and its elegant architecture.  I then looked into over-architecture as a defense mechanism and how it can be a liability not only for you personally, but for those who choose to embrace your software and at some point might have to support it.  I then discussed the value of incorporating designs from other technology and provided a link to further lessons learned in my software development history.</p>
+
+<p>As such, this section serves as a more personal and mindful exploration of the underlying philosophy being presented here for Super.NET.  With that out of the way, let&rsquo;s visit our last page in philosophy, that of being the <a href="/philosophy/culture/">culture of excellence&raquo;</a>.</p>
 
 </div>
             <div class="footer">
