@@ -2,7 +2,7 @@
 title: "Simple Does It"
 date: 2018-06-22T00:52:10-04:00
 draft: true
-weight: 4
+weight: 5
 ---
 
 # *[[WIP](https://www.investopedia.com/terms/w/workinprogress.asp)]
@@ -35,13 +35,13 @@ From my own experience, I can say that I have been very attracted to complex des
 
 Enterprise Library is a good example as I found that a lot of projects didn't use it, even though I thought it should.  Most thought it was simply too complicated, and, as it turns out, they were right.  This didn't stop me from exploring, it, however.  And in turn always recommending it to clients for solutions that I would be building for them.
 
-The problem here is that once you develop a overly-complex system, you have to *support* that system.  You are also asking other developers to take the same path as you have and invest all their time into that system.  This has a cascading effect throughout an ecosystem.  Especially if it comes from MSFT.
+The problem here is that once you develop a overly-complex system, you have to *support* that system.  You are also asking other developers to take the same path as you have and invest all their time into that system.  This has a cascading effect throughout an ecosystem, especially when that code originates from [MSFT](https://blog.superdotnet.run/2018/06/msft-vs-ms/).
 
-I will be honest and say that a lot of MSFT's earlier .NET code seems very complicated these days.  I noticed this with the `XmlSerilizer` while doing work on the [ExtendedXmlSerializer](https://github.com/wojtpl2/ExtendedXmlSerializer), especially.  Looking through that code and seeing thousands (and thousands!) of lines in a single file is a pretty impressive experience and not in a good way.
+The pitfall to be aware of here is that writing *a lot of code* can be a way of trying to *impress* others, or to make them think that you are smarter than you really are.  More code is not necessarily better.  I have been guilty of this for sure, having mimicked MSFT's style of creating large frameworks and probably with a lot of code that was not necessary (always a learning lesson and I am not saying I have exactly learned it with finality just yet).
 
-The point here being that code can be a way of trying to impress others.  More code is not  necessarily better.  I have been guilty of this for sure, having mimicked MSFT's style of creating large frameworks and probably with a lot of code that was not necessary (always a learning lesson and I am not saying I have exactly learned it with finality just yet).
+This is not to say that software shouldn't be complex.  I can guarantee you the code I will be writing will certainly be.  But the point here is to be *mindful* of this condition.
 
-This is not to say that software shouldn't be complex.  I can guarantee you the code I will be writing will certainly be.  But the point here is to be *mindful* of this trap.  Always be asking: who am I trying to impress, and why?
+Always be asking: who am I trying to impress, and why?
 
 Personal self discovery and reflection is as an important tool in every developer's tool kit as any software library.  Be sure to constantly assess your own motivations and what drives you to make the decisions you do.  I know it's something that I constantly monitor in my own world and I do not have very good answers for a lot of them.  But, I would say *mindfulness* of this is a good first step.
 
