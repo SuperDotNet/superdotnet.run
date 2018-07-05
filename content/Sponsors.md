@@ -1,11 +1,16 @@
 ---
 title: "Sponsors"
 date: 2018-06-22T01:42:52-04:00
+draft: true
 ---
+
+# *[[WIP](https://www.investopedia.com/terms/w/workinprogress.asp)]
 
 Much love and appreciation to the following sponsors who have provided some serious l00t towards reach the goals established here.  Especially so since they are really taking a risk in putting their faith in someone who is essentially an unknown.
 
-Super.NET is proudly developed, debugged, tested, and deployed in part by:
+## Products and Services
+
+Super.NET is also proudly developed, debugged, tested, and deployed in part by the following products and services:
 
 [<img src="/images/ReSharper.png" width="100px" /> ReSharper Ultimate](https://www.jetbrains.com/dotnet/)<br /><br />
 
@@ -14,3 +19,7 @@ Super.NET is proudly developed, debugged, tested, and deployed in part by:
 [<img src="/images/Tower.png" width="100px" /> Tower](https://www.git-tower.com/)
 
 [<img src="/images/CodeCompare.svg" width="100px" /> Code Compare](https://www.devart.com/codecompare/)
+
+## Special Thanks
+
+Further thanks and mentions can be [found here&raquo;](/gratitude/).

@@ -5,13 +5,11 @@ date: 2018-06-19T08:58:59-04:00
 
 ## Welcome
 
-Welcome to my little place on the interwebs.  In this website, I hope to detail you the scope of the project I am working on, and help relay some of the vision that I have in store for it.
+Welcome to Super.NET!  In this website, I hope to detail you the scope of the project I am working on, and help relay some of the vision that I have in store for it.
 
 ## Who Are You?
 
-[Who am I?](https://youtu.be/tf5nCPFBSHw)  My name is [Michael DeMond](https://github.com/Mike-EEE/), and I [turned 42](https://www.quora.com/Why-and-how-is-42-the-answer-to-life-the-universe-and-everything) on June 7th this year (2018).  
-
-If you are in the [MSFT](https://blog.superdotnet.run/2018/06/msft-vs-ms/) ecosystem and frequent any of its blogs, then you have most likely seen me patrolling the comments of the posts there -- usually when the subject revolves around data formats, or .NET client application development -- under the nickname of Mike-EEE, a gamer tag that I acquired in the late 1990s and I have stuck with it through this day.  
+[Who am I](https://youtu.be/tf5nCPFBSHw)?  Well, if you are in the [MSFT](https://blog.superdotnet.run/2018/06/msft-vs-ms/) ecosystem and frequent any of its blogs, then you have most likely seen me patrolling the comments of the posts there -- usually when the subject revolves around data formats, or .NET client application development -- under the nickname of Mike-EEE, a gamer tag that I acquired in the late 1990s and I have stuck with it through this day.  
 
 I have been a .NET developer since 2001, since Visual Studio was in its first beta.  Before that, I was a PHP web developer and [first employee for a startup](https://www.wildtangent.com/) that was founded by [one of the creators of DirectX](https://en.wikipedia.org/wiki/Alex_St._John).  The technology that this company initially dealt with -- [Chromeffects](https://en.wikipedia.org/wiki/Microsoft_Chrome) -- can, for all intents and purposes, be called the first version of Silverlight ([discussed below](/#what-in-the-world-is-this-project)).  From my efforts at this startup, you could say that I was well-rehearsed in JavaScript, XML, and, of course, HTML -- but more so with all their associated pains.  
 
@@ -51,11 +49,11 @@ I agree.  I am actually a bit terrified I am even considering this.  However, gi
 
 ## You?  You Have a Team, Right?
 
-I have always worked best on my own.  As [a wise developer](https://blog.superdotnet.run/2018/06/who-is-agent-smith/) once stated to me in paraphrase: 
+I have always worked best on my own.  As a wise developer once stated to me (in paraphrase):
 
 > Show me a project that one developer can do in one month, and I will show you the same project that two developers can do in two.
 > 
-> -- Agent Smith
+> -- [Agent Smith](https://blog.superdotnet.run/2018/06/who-is-agent-smith/)
 
 
 Very true words in our line of work.
@@ -66,10 +64,10 @@ Perhaps.  Consider that I have essentially stared into a series of flashing rect
 
 ## You're Also Interviewing Yourself
 
-Don't knock it until you try it; it's incredibly therapeutic I dare say.  Regardless, in my view, software is a lot like writing a book.  It's nearly impossible to write a book that is consistent in form and tone with multiple people stomping around in various chapters and trying to tie together a cohesive story.  Some teams do pull it off, however, and I rightfully salute them.  In my world, however, this is the exception and not the norm.  It's simply not my style or what I have found the most success at in my nearly 22 years of development experience.  In my view, a project should get to its first publish point and _then_ other members join to help flesh it out, keeping to the tone and style established by the primary author.
+Don't knock it until you try it; [it's incredibly therapeutic](https://en.wikipedia.org/wiki/Active_imagination), I dare say.  Regardless, in my view, software is a lot like writing a book.  It's nearly impossible to write a book that is consistent in form and tone with multiple people stomping around in various chapters and trying to tie together a cohesive story.  Some teams do pull it off, however, and I rightfully salute them.  In my world, however, this is the exception and not the norm.  It's simply not my style or what I have found the most success at in my nearly 22 years of development experience.  In my view, a project should get to its first publish point and _then_ other members join to help flesh it out, keeping to the tone and style established by the primary author.
 
 ## OK Crazy Guy, How Are You Going to Pull Off the Impossible?
 
 One day at a time.  But first, I have a lot of writing to do here in this site, and in doing so I hope to cover a lot of ground here.  I would like to think of this as a good stopping point in my career to reflect on my time so far in the .NET space, to share my lessons learned, and offer a bit of a retrospective.  I hope to establish this in the [Philosophy section](/philosophy/).  From there, I will explore the primary concepts of this project in the [Vision section](/vision/) to break down the major pieces and highlight how the approach differs from any others that I have seen in the marketplace to date.  From there, I hope to contain all further, unanswered questions in the [FAQ](/faq/), and from _there_, maintain any further thoughts or highlights worth sharing on the [Super.NET blog, dawg](https://blog.superdotnet.run).
 
-Let's first jump into the [Philosophy section](/philosophy/).
+Let's first jump straight into the rabbit hole with some [Philosophy&raquo;](/philosophy/).

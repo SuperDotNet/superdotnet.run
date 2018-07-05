@@ -37,9 +37,7 @@
     <!-- Icons -->
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
     <link rel="shortcut icon" href="/favicon.png">
-    <!-- RSS -->
-    <link href="/philosophy/index.xml" rel="alternate" type="application/rss+xml" title="Super.NET" />
-    <link href="/philosophy/index.xml" rel="feed" type="application/rss+xml" title="Super.NET" />
+    
 
 	</head>
     <body class="theme-base-08 ">
@@ -114,57 +112,146 @@
 </div>
 
         <div class="content container">
-            <h1 class="title">Philosophy</h1>
-<p>In here you will find content that discusses the Super.NET&rsquo;s overarching philosophy and the internal &ldquo;guts&rdquo; that drive it.</p>
+            <div class="post">
+  <h1>Philosophy</h1>
+  
+  <div class="col-sm-12 col-md-12">
+    <span class="text-left post-date meta">
+            
+       
+        <i class="fas fa-calendar-alt"></i> Jul 5, 2018
+      
+      
+      
+      
+      <br/>
+      <i class="fas fa-clock"></i> 5 min read 
+      </span>  
+  </div>    
+  
+  
 
-<ul class="posts">
-    <li>
-        <span>
-            <a href="/philosophy/introduction/">Introduction</a>
-            
-            <time class="pull-right post-list">Jun 20, 2018</time>    
-            
-        </span>
-    </li><li>
-        <span>
-            <a href="/philosophy/inspiration/">Inspiration</a>
-            
-            <time class="pull-right post-list">Jun 20, 2018</time>    
-            
-        </span>
-    </li><li>
-        <span>
-            <a href="/philosophy/craft/">Software as a Craft</a>
-            
-            <time class="pull-right post-list">Jun 22, 2018</time>    
-            
-        </span>
-    </li><li>
-        <span>
-            <a href="/philosophy/business-of-art/">The Business of Art</a>
-            
-            <time class="pull-right post-list">Jun 24, 2018</time>    
-            
-        </span>
-    </li><li>
-        <span>
-            <a href="/philosophy/simple-does-it/">Simple Does It</a>
-            
-            <time class="pull-right post-list">Jun 22, 2018</time>    
-            
-        </span>
-    </li><li>
-        <span>
-            <a href="/philosophy/culture/">Culture of Excellence</a>
-            
-            <time class="pull-right post-list">Jun 22, 2018</time>    
-            
-        </span>
-    </li>
+<h1 id="wip-https-www-investopedia-com-terms-w-workinprogress-asp">*[<a href="https://www.investopedia.com/terms/w/workinprogress.asp">WIP</a>]</h1>
+
+<p>This document outlines Super.NET&rsquo;s primary philosophical drivers.</p>
+
+<blockquote>
+<p>Super.NET is intended to enable ubiquitous .NET client applications.</p>
+</blockquote>
+
+<p>As an overall vision, the purpose of Super.NET is to enable ubiquitous .NET client applications.  It is meant to fulfill the ultimate developer use case:</p>
+
+<p><em>&ldquo;As a developer, I want to develop my application once and have it run everywhere.&rdquo;</em></p>
+
+<h2 id="the-business-problem">The Business Problem</h2>
+
+<p>In the current .NET space, this use case is not possible to fulfill.  As a result, developers must create <strong>two</strong> applications in their .NET solutions, which means <strong>double the code</strong>, and resultingly <strong>double the risk</strong>, and therefore <strong>double the <a href="https://en.wikipedia.org/wiki/Total_cost_of_ownership">total cost of ownership</a></strong>.</p>
+
+<h3 id="cost-of-development">Cost of Development</h3>
+
+<p>It is best to think of codebases as lump sums of money in terms of total cost of ownership.  Each incompatible language used within a solution has its own set of risks, idiosyncrasies, and challenges.  If the artifacts from one language cannot be shared and leveraged in another, <em>then it is considered incompatible and therefore expensive</em>.</p>
+
+<p>Primary examples of ensuring low total cost of ownership:</p>
+
+<ul>
+<li>Cross-platform resources: e.g. in .NET you can write an artifact in F#, compile it, and use that resource in a solution that is primarily written in C#.<br /></li>
+<li>Cross-tier resources: e.g. in a WPF application, you can write a general purpose library meant for <em>server-side</em> scenarios (such as a logging utility) and easily share it in the <em>client-side application</em> without having to rewrite it specifically for that scenario.</li>
 </ul>
 
+<p>In the scenario where a JavaScript solution is introduced into a .NET solution, <em>the JavaScript cannot be shared with .NET and vice versa</em>.  Therefore it is considered <em>incompatible</em> and an <em>expensive</em> approach as you now have to build and maintain two different codebases, each with their own set of expenses as outlined earlier.</p>
+
+<h2 id="principles-and-objectives">Principles and Objectives</h2>
+
+<p>The following principles describe some high level objectives of this project.</p>
+
+<h3 id="html5">HTML5 as an Established Presentation Platform</h3>
+
+<p>HTML has been a pillar of the web for several decades now.  That&rsquo;s a pretty amazing feat.  <a href="https://en.wikipedia.org/wiki/HTML5">HTML5 has been a standard since 2014</a>, and it has only matured since then.  Plenty of artists and designers have established great user experience and design around this presentation platform and <em>are now only getting better</em> which makes it a perfect candidate for anything required for presentation.</p>
+
+<p>By focusing on <em>one</em> presentation platform, we cost and complexity is greatly reduced as now the system only has to account for this <em>one</em> platform.  Further, it is easier to gain expert status towards this platform as developers are spending all of their time within this one paradigm or way of expression.</p>
+
+<p>Finally, from a personal point of view, having had my hands in HTML in some capacity since 1994 when I first started getting into computer science, it feels &ldquo;right&rdquo; using it and finding a way to cleanly integrate it with .NET.</p>
+
+<h4 id="net-semantics">.NET Semantics</h4>
+
+<p>The technical challenge here, of course, is that of .NET semantics.  One cannot describe a <code>DockPanel</code> in HTML.  They must use foreign &ndash; and inconsistently cased &ndash; constructs such as <code>&lt;div /&gt;</code> and <code>&lt;span /&gt;</code> to describe these objects.  This project aims to rectify this challenge by ensuring that when a .NET developer describes a native .NET element such as <code>DockPanel</code>, it will get converted as the appropriate HTML5 element(s) to ultimately render in the browser to which it is sent.</p>
+
+<h3 id="data-formats">Data Formats</h3>
+
+<p>A goal of this project is to also address a significant within our development community, that of data formats.  Ultimately, <em>data formats describe an object graph</em>.  This idea seems to be a lost, unknown, or at the very least very much misunderstood concept within our community.  The goal here is to enable users of Super.NET to use <em>any</em> supported data format, and to easily build additionally providers to enable other formats not natively supported.</p>
+
+<p>To start, the following formats are recognized and <em>should</em> be supported from the initial version:</p>
+
+<ul>
+<li>XML</li>
+<li>JSON</li>
+<li>YAML</li>
+</ul>
+
+<p>Additionally, we might consider creating our own format/dialect that perhaps improves upon YAML to produce our own unique format that is a part of Super.NET&rsquo;s overall design and is aligned with the spirit of .NET.  This indeed might be considered the next incarnation of <a href="https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/xaml-overview-wpf">Xaml</a>.</p>
+
+<h3 id="poico-development">POICO Development</h3>
+
+<p>Poico &ndash; or Plain Ol&rsquo; Immutable CLR Object &ndash; development means, by default, ensuring all elements used with the solution are immutable and cannot change state after they are created.  Additionally, the objective is to ensure these CLR objects are as &ldquo;plain&rdquo; as possible, meaning that they are defined with as little to no decoration.  Which <em>ideally</em> (there will be exceptions, of course) means no:</p>
+
+<ul>
+<li>Attributes or metadata</li>
+<li>Inheritance</li>
+<li>Use of virtual overrides</li>
+</ul>
+
+<h3 id="composition-over-inheritance">Composition Over Inheritance</h3>
+
+<p>No inheritance means the preference of <a href="https://en.wikipedia.org/wiki/Composition_over_inheritance">composition over inheritance</a>.  Inheritance can be used, of course, for implementations of patterns such as decoration and delegation.  Classes should strive to be <code>sealed</code> and <code>internal</code> by default until needed otherwise.</p>
+
+<h3 id="progressive-web-applications">Progressive Web Applications</h3>
+
+<p>This will take some further investigation, but generally speaking Super.NET applications will be progressive web applications.  Investigation will be required for offline scenarios, mostly.  In this case, we might have to consider dropping into WebAssembly.</p>
+
+<h3 id="further-considerations">Further Considerations</h3>
+
+<p>For further philosophical thoughts and musings around software, design, and life, feel free to <a href="https://blog.superdotnet.run/2018/07/philosophy/">visit the series on the Super.NET Blog, Dawg</a>.</p>
+
+</div>
             <div class="footer">
-                
+                <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+
+<script type="text/javascript">
+    hljs.configure({languages: []});
+    hljs.initHighlightingOnLoad();
+</script>
+
+    
+
+        <h2>Comments</h2>
+        <div id="disqus_thread"></div>
+<script type="text/javascript">
+      (function () {
+            
+            
+            
+            if (location.hostname === "localhost" || 
+            	location.hostname === "127.0.0.1" || 
+            	location.hostname === "") {
+                return;
+			}
+            var dsq = document.createElement('script');
+            dsq.type = 'text/javascript';
+            dsq.async = true;
+            var disqus_shortname = 'superdotnet';
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(
+                  dsq);
+      })();
+</script>
+
+<noscript>
+	Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+      
+
             </div>
         </div>
         

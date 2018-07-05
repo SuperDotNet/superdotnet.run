@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Honor Jar on Super.NET</title>
+    <link>/honor/</link>
+    <description>Recent content in The Honor Jar on Super.NET</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jun 2018 06:43:58 -0400</lastBuildDate>
+    
+	<atom:link href="/honor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Pitch</title>
+      <link>/honor/pitch/</link>
+      <pubDate>Sun, 24 Jun 2018 15:36:17 -0400</pubDate>
+      
+      <guid>/honor/pitch/</guid>
+      <description>This is mostly inspired by the comments of the issue that I created in October 2015, where there are a few comments that mention creating a Kickstarter. As creating an entire fundraising effort around this seems to be outside of my comfort zone, I have instead setup what I like to call The Honor Jar.
+The Elevator Pitch This is how it works:
+ You provide a donation to me, in exchange for a claim to one of my works of art .</description>
+    </item>
+    
+    <item>
+      <title>Risks</title>
+      <link>/honor/risks/</link>
+      <pubDate>Sun, 24 Jun 2018 15:39:49 -0400</pubDate>
+      
+      <guid>/honor/risks/</guid>
+      <description>The idea here is are providing a donation towards a service that I am building upon Super.NET that possibly could return value back to you in the form of a token that can be sold as value later on if this endeavor completes successfully. As with any business venture, there are risks to be aware of, even if this is simply a donation. I am keeping a list of possible scenarios that would interfere with that success here.</description>
+    </item>
+    
+    <item>
+      <title>Rewards</title>
+      <link>/honor/rewards/</link>
+      <pubDate>Sun, 24 Jun 2018 15:40:55 -0400</pubDate>
+      
+      <guid>/honor/rewards/</guid>
+      <description>Whew! I don&amp;rsquo;t know about you, but that was rough digging through all that grit. Looking at what can go wrong in life is never a fun exercise but I think it is the prudent and mature thing to do if I am asking for your money.
+Now for the good part. Let&amp;rsquo;s talk about how your donation would contribute to the world.
+You Support .NET .NET is the Commodore 64 that didn&amp;rsquo;t die.</description>
+    </item>
+    
+    <item>
+      <title>Donate</title>
+      <link>/honor/donate/</link>
+      <pubDate>Sun, 24 Jun 2018 15:42:20 -0400</pubDate>
+      
+      <guid>/honor/donate/</guid>
+      <description>Alright, we have gone through the risks and rewards. If you are still with me, and are interested in donating to the cause then I am forever indebted to your support!
+Donate Click this button to start the magic, courtesy of Coinbase:
+ Donate to the Honor Jar  
+Optional but Highly Encouraged: Claim Your Art If you are interested in claiming a work, then fill the form below.</description>
+    </item>
+    
+  </channel>
+</rss>
