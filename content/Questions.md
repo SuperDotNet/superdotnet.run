@@ -8,11 +8,11 @@ draft: true
 
 ## What is Super.NET?
 
-Super.NET enables ubiquitous .NET applications.
+Super.NET enables ubiquitous applications written in .NET.
 
-## What is a Ubiquitous Application?
+## What is a Ubiquitous .NET Application?
 
-A ubiquitous application is one that can run anywhere on any device.  Super.NET aims to enable this for .NET applications with a *single* codebase by running within the web browser.
+A ubiquitous application is one that can run anywhere on any device.  Super.NET aims to enable this for .NET applications comprised of a *single* codebase that creates applications that runs within the web browser.
 
 ## Like [Silverlight](https://en.wikipedia.org/wiki/Microsoft_Silverlight) Did?
 
@@ -20,12 +20,16 @@ Yes.
 
 ## Will You Ever Stop Whining About That?
 
-No.
+Are you... [whining about my whining](https://youtu.be/EL8e2ujXe8g)?
 
-## I'm Out of Questions
+## That's Very Meta of You.
 
 That wasn't a question.
 
-## What If I Have More Questions?
+## I'm... Sorry?
+
+Apology accepted.
+
+## World Peace, Brogrammer.  What If I Have More Questions?
 
 This document will be updated as common questions arise.  You can also find us on our [Super.NET Blog, Dawg](https://blog.superdotnet.run/) and [Gitter channels](https://gitter.im/SuperDotNet/Lobby) if you feel so brave and inclined.  See you there!
