@@ -31,8 +31,8 @@ enableRobotsTXT = true
 ## Social Accounts
 [params.social]
     github = "SuperDotNet"
-    twitter = "RunSuperDotNet"
-    facebook = "RunSuperDotNet"
+    # twitter = "RunSuperDotNet"
+    # facebook = "RunSuperDotNet"
     email = "run@superdotnet.run"
 	#stackoverflow = "<username>"
 
