@@ -17,7 +17,7 @@
       <pubDate>Thu, 05 Jul 2018 11:33:38 -0400</pubDate>
       
       <guid>/philosophy/</guid>
-      <description>*[WIP] This document outlines Super.NET&amp;rsquo;s primary philosophical drivers.
+      <description>This document outlines Super.NET&amp;rsquo;s primary philosophical drivers.
  Super.NET is intended to enable ubiquitous .NET client applications.
  As an overall vision, the purpose of Super.NET is to enable ubiquitous .NET client applications. It is meant to fulfill the ultimate developer use case:
 &amp;ldquo;As a developer, I want to develop my application once and have it run everywhere.&amp;rdquo;
@@ -30,7 +30,7 @@ The Business Problem In the current .NET space, this use case is not possible to
       <pubDate>Sun, 24 Jun 2018 06:38:12 -0400</pubDate>
       
       <guid>/gratitude/</guid>
-      <description>*[WIP] A quick shout out to those in the community who have supported me in various forms, or who have encouraged me one way or another in this grand adventure that I now find myself in:
+      <description>A quick shout out to those in the community who have supported me in various forms, or who have encouraged me one way or another in this grand adventure that I now find myself in:
 Dr. Donald Robertson (aka Emperor Marcus Aurelius): I saw Dr. Robertson&amp;rsquo;s post in my feed for his Patreon account and was inspired to &amp;ldquo;make the jump&amp;rdquo; in my own pursuit here.
 Wojciech Nagórski: For putting out your answers on StackOverflow to get me in the right direction here.</description>
     </item>
@@ -41,7 +41,7 @@ Wojciech Nagórski: For putting out your answers on StackOverflow to get me in t
       <pubDate>Fri, 22 Jun 2018 01:42:52 -0400</pubDate>
       
       <guid>/sponsors/</guid>
-      <description>*[WIP] Much love and appreciation to the following sponsors who have provided some serious l00t towards reach the goals established here. Especially so since they are really taking a risk in putting their faith in someone who is essentially an unknown.
+      <description>Much love and appreciation to the following sponsors who have provided some serious l00t towards reach the goals established here. Especially so since they are really taking a risk in putting their faith in someone who is essentially an unknown.
 Products and Services Super.NET is also proudly developed, debugged, tested, and deployed in part by the following products and services:
 ReSharper Ultimate
 OzCode
@@ -56,7 +56,7 @@ Special Thanks Further thanks and mentions can be found here&amp;raquo;.</descri
       <pubDate>Fri, 22 Jun 2018 01:41:25 -0400</pubDate>
       
       <guid>/questions/</guid>
-      <description>*[WIP] What is Super.NET? Super.NET enables ubiquitous applications written in .NET.
+      <description>What is Super.NET? Super.NET enables ubiquitous applications written in .NET.
 What is a Ubiquitous .NET Application? A ubiquitous application is one that can run anywhere on any device. Super.NET aims to enable this for .NET applications comprised of a single codebase that creates applications that runs within the web browser.
 Like Silverlight Did? Yes.
 Will You Ever Stop Whining About That? Are you&amp;hellip; whining about my whining?
@@ -69,7 +69,7 @@ That&amp;rsquo;s Very Meta of You.</description>
       <pubDate>Fri, 22 Jun 2018 01:26:25 -0400</pubDate>
       
       <guid>/vision/</guid>
-      <description>*[WIP] Having now described the overarching philosophy and goals driving Super.NET, we now turn our attention to its overall vision and how it intends on fulfilling its objectives.
+      <description>Having now described the overarching philosophy and goals driving Super.NET, we now turn our attention to its overall vision and how it intends on fulfilling its objectives.
 Primary Components A list of the big components that will be required to build the vision here.
 Serializer As discussed in principle and objectives, many data formats will be used within this framework. Therefore, the serializer must be able to account for these formats and more.</description>
     </item>
