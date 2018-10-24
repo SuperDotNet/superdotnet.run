@@ -1,10 +1,7 @@
 ---
 title: "Gratitude"
 date: 2018-06-24T06:38:12-04:00
-draft: true
 ---
-
-# *[[WIP](https://www.investopedia.com/terms/w/workinprogress.asp)]
 
 A quick shout out to those in the community who have supported me in various forms, or who have encouraged me one way or another in this grand adventure that I now find myself in:
 

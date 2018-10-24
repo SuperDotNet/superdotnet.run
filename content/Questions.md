@@ -1,10 +1,7 @@
 ---
 title: "Frequently Asked Questions"
 date: 2018-06-22T01:41:25-04:00
-draft: true
 ---
-
-# *[[WIP](https://www.investopedia.com/terms/w/workinprogress.asp)]
 
 ## What is Super.NET?
 
@@ -32,6 +29,6 @@ Apology accepted.
 
 ## World Peace, Brogrammer.  What If I Have More Questions?
 
-This document will be updated as common questions arise, which, to be quite honest *shouldn't until it's done*.  I am trying to keep this low-key as possible in hopes to maximize its chance of success.  More visibility means more expectations which is bad, mkay?  In fact, I really shouldn't have this site up already and am a bit uncomfortable with it, [but that is where the magic happens](https://artandcakela.files.wordpress.com/2015/09/kris-comfort-zone-postcard-side1-1.jpg), right?
+This document will be updated as common questions arise, which, to be quite honest *shouldn't happen until the first version is done*.  I am trying to keep this low-key as possible in hopes to maximize its chance of success.  More visibility means more expectations which is bad, mkay?  In fact, I really shouldn't have this site up already and am a bit uncomfortable with it, [but that is where the magic happens](https://artandcakela.files.wordpress.com/2015/09/kris-comfort-zone-postcard-side1-1.jpg), right?
 
 You can also find me on our [Super.NET Blog, Dawg](https://blog.superdotnet.run/).  I will (hopefully)  be posting updates there as I progress, or regress.  Whichever.

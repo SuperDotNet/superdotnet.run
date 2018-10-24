@@ -1,10 +1,7 @@
 ---
 title: "Vision"
 date: 2018-06-22T01:26:25-04:00
-draft: true
 ---
-
-# *[[WIP](https://www.investopedia.com/terms/w/workinprogress.asp)]
 
 Having now [described the overarching philosophy and goals](/philosophy/) driving Super.NET, we now turn our attention to its overall vision and how it intends on fulfilling its objectives.
 

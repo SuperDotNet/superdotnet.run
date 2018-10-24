@@ -1,10 +1,7 @@
 ---
 title: "Philosophy"
 date: 2018-07-05T11:33:38-04:00
-draft: true
 ---
-
-# *[[WIP](https://www.investopedia.com/terms/w/workinprogress.asp)]
 
 This document outlines Super.NET's primary philosophical drivers.
 
