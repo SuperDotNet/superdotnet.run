@@ -47,7 +47,7 @@ The technical challenge here, of course, is that of .NET semantics.  One cannot 
 
 ### Data Formats
 
-A goal of this project is to also address a significant within our development community, that of data formats.  Ultimately, *data formats describe an object graph*.  This idea seems to be a lost, unknown, or at the very least very much misunderstood concept within our community.  The goal here is to enable users of Super.NET to use *any* supported data format, and to easily build additionally providers to enable other formats not natively supported.
+A goal of this project is to also address a significant deficiency within our development community, that of data formats.  Ultimately, *data formats describe an object graph*.  This idea seems to be a lost, unknown, or at the very least very much misunderstood concept within our community.  The goal here is to enable users of Super.NET to use *any* supported data format, and to easily build additionally providers to enable other formats not natively supported.
 
 To start, the following formats are recognized and *should* be supported from the initial version:
 
